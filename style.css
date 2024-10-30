@@ -5,30 +5,24 @@ h1{
     font-size: 90px;
     margin-bottom: 10px;
 }
-
 nav{
     margin-top: 20;
     text-align: center;
 }
-
 nav ul{
     list-style-type: none;
     padding: 0;
 }
-
-
 nav ul li a {
     text-decoration: none;
     color: #e0d5d5
 }
-
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0;
     padding: 20px;
     background-image: url(https://www.solofondos.com/wp-content/uploads/2015/11/new-fondo1lateral-768x576.jpg);
 }
-
 .barradenavegacion{
     list-style: none;
     margin: 10px;
@@ -39,26 +33,19 @@ body{
     /*Con este codigo centro mi lista*/
     border-radius: 2px;
     gap: 20px;
-
 }
-
 a{
     text-decoration: none;
     color: #f5f5dc;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
-
 .imagenes{
     display: flex;
     justify-content: center;
     gap: 20px;
 }
-
 .imagenes img{
     width: 300px;
     height: auto;
     border-radius: 10px;
 }
-
-
-
