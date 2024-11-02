@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.9QajPZD1N7VvmPOFByibsAHaEo?rs=1&pid=ImgDetMain);
+    background-size: cover;
+    margin: 0;
+    padding: 20px;
+}
+
+header{
+    color: rgb(17, 15, 15);
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+}
+button{
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: #1dd3e3;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s; 
+}
+
+button :hover{
+    background-color: blue;
+    transform: scale(1.05);
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
